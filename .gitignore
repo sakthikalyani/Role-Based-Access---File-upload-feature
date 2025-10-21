@@ -214,3 +214,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+app/chroma_db/
+app/temp_uploads/
+uploaded_documents/
+*.sqlite3
+*.bin
